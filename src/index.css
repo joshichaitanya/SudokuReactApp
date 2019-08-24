@@ -1,0 +1,58 @@
+td {
+  text-align: center;
+  border: 1px solid;
+}
+table {
+  width: 500px;
+  height: 500px;
+}
+input, span {
+  height: 50px;
+  width: 50px;
+  font-size: 50px;
+}
+#winner {
+  color: green;
+}
+
+table {
+  border: 5px solid;
+  margin: 0 auto;
+}
+
+.timer {
+  text-align: center;
+  width: 150px;
+  border: 1px dashed gray;
+  margin: auto;
+}
+.selectBox {
+  text-align: center;
+  margin: 20px;
+}
+.selectBox select {
+  width: 120px;
+  height: 30px;
+  border: 2px solid green;
+  font-size: 14px;
+  padding: 5px;
+}
+.start-button {
+  margin: 10px auto;
+  width: 175px;
+  height: 45px;
+  border-radius: 10px;
+  font-size: 25px;
+  color: yellow;
+  background-color: black;
+  display: block;
+
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.disabled {
+  pointer-events: none;
+}
