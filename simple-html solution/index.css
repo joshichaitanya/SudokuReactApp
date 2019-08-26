@@ -1,0 +1,17 @@
+td {
+    text-align: center;
+    border: 1px solid;
+}
+table {
+    width: 450px;
+    height: 450px;
+}
+input {
+    height: 50px;
+    width: 50px;
+    font-size: 50px;
+}
+#winner {
+    color: green;
+}
+
